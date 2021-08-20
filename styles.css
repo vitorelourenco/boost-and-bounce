@@ -4,5 +4,8 @@ html{
 
 #score-area{
   height: 20px;
+  text-align: center;
+  background-color: #333;
+  color: white;
 }
 
